@@ -16,4 +16,5 @@ EHRI vyvíjí nové metody a poskytuje digitální služby a nástroje pro vědc
 Prostřednictvím stipendií a stáží EHRI zároveň podporuje výchovu nové generace vědců a archivářů.
 
 [Centrální hub EHRI](https://www.ehri-project.eu/)
+
 [Český uzel EHRI](about.md)
