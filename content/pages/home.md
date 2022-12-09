@@ -17,4 +17,4 @@ Prostřednictvím stipendií a stáží EHRI zároveň podporuje výchovu nové 
 
 [Centrální hub EHRI](https://www.ehri-project.eu/)
 
-[Český uzel EHRI](about.md)
+[Český uzel EHRI](about)
