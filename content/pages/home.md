@@ -1,20 +1,19 @@
-Title: O EHRI | EHRI-SK
+Title: O EHRI | EHRI-CZ
 Date: 2022-11-29 14:47
 Category: Page
 Slug: home
 URL: 
 save_as: index.html
+lang: cs
+translation: true
 
 # O EHRI
 
-European Holocaust Research Infrastructure je stála európska distribuovaná vedecká infraštruktúra, 
-ktorá napomáha výskumu holokaustu, jeho pripomínaniu a vzdelávaniu oňom. Robí tak prekonávaním 
-závažného problému, ktorým je roztrieštenosť a rozptýlenosť relevantných prameňov, informácií a 
-znalostí po rôznych krajinách sveta.
+Evropská infrastruktura pro výzkum holokaustu ()European Holocaust Research Infrastructure, EHRI) je stálá evropská  distribuovaná výzkumná infrastruktura, která podporuje výzkum o holokaustu, jeho připomínání a vzdělávání o něm. Usiluje o překlnání roztříštěnosti a rozptýlení relevantních pramenů, informací a znalostí přes hranice mnoha zemí.
 
-EHRI vyvíja nové metódy a poskytuje digitálne služby a nástroje pre vedcov a archivárov na prácu s 
-prameňmi a na ich prezentáciu.
+EHRI vyvíjí nové metody a poskytuje digitální služby a nástroje pro vědce a archiváře, které jim usnadňují práci s prameny a jejich prezentaci.
 
-Prostredníctvom štipendií a stáží EHRI zároveň podporuje výchovu novej generácie vedcov a archivárov.
+Prostřednictvím stipendií a stáží EHRI zároveň podporuje výchovu nové generace vědců a archivářů.
 
-[EHRI na Slovensku](about.md)
+[Centrální hub EHRI](https://www.ehri-project.eu/)
+[Český uzel EHRI](about.md)
