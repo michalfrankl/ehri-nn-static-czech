@@ -1,17 +1,17 @@
 import datetime
 
 AUTHOR = 'EHRI'
-SITENAME = 'EHRI-SK'
+SITENAME = 'EHRI-CZ'
 SITEURL = ''
-COUNTRY_CODE = 'SK'
-SITE_TITLE = 'Národná platforma pre spoluprácu s EHRI v Slovenskej republike'
+COUNTRY_CODE = 'CZ'
+SITE_TITLE = 'Český uzel EHRI'
 COPYRIGHT_YEAR = datetime.datetime.now().year
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Bratislava'
 
-DEFAULT_LANG = 'sk'
+DEFAULT_LANG = 'cs'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -22,10 +22,10 @@ AUTHOR_FEED_RSS = None
 
 MENUITEMS = (
     ('O EHRI', ''),
-    ('EHRI na Slovensku', 'about'),
+    ('Český uzel EHRI', 'about'),
     ('Služby', 'services'),
-    ('Používatelia', 'users'),
-    ('Správy a podujatia', 'news'),
+    ('Uživatelé', 'users'),
+    ('Novinky', 'news'),
     ('Kontakt', 'contact'),
     )
 
