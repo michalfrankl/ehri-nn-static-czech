@@ -9,7 +9,7 @@ COPYRIGHT_YEAR = datetime.datetime.now().year
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Praha'
+TIMEZONE = 'Europe/Prague'
 
 DEFAULT_LANG = 'cs'
 
