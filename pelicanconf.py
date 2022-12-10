@@ -4,7 +4,7 @@ AUTHOR = 'EHRI'
 SITENAME = 'EHRI-CZ'
 SITEURL = ''
 COUNTRY_CODE = 'CZ'
-SITE_TITLE = 'Český uzel EHRI'
+SITE_TITLE = 'Český uzel Evropské infrastruktury pro výzkum holokaustu'
 COPYRIGHT_YEAR = datetime.datetime.now().year
 
 PATH = 'content'
