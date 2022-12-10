@@ -7,4 +7,4 @@ save_as: news.html
 
 # Novinky
 
-Pokus
+<a class="twitter-timeline" data-width="500" data-height="800" data-dnt="true" href="https://twitter.com/EHRIproject?ref_src=twsrc%5Etfw">Tweety EHRIproject</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
