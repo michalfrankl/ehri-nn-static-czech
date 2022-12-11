@@ -3,7 +3,7 @@ Date: 2022-11-29 14:47
 Category: Page
 Slug: home
 URL: 
-save_as: index_en.html
+save_as: index.html
 lang: en
 translation: true
 
